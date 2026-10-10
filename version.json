@@ -1,0 +1,8 @@
+{
+  "product": "MyDLL",
+  "latest_version": "1.0.0",
+  "minimum_supported_version": "1.0.0",
+  "download_url": "",
+  "release_notes": "Placeholder manifest. Replace these values when the first release is ready.",
+  "status": "unavailable"
+}
